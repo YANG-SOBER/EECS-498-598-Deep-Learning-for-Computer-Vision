@@ -4,7 +4,7 @@ Course Youtube Link
 
 Lecture Order| Marked Course Notes
 --- | --- |
-Lecture 1 | [Introduction to Deep Learning for Computer Vision]()
+Lecture 1 | [Introduction to Deep Learning for Computer Vision](https://drive.google.com/file/d/1WNIROKvdkBtxKLBTBv-MeV_EoP3QTf9F/view?usp=sharing)
 Lecture 2 | [Image Classification]()
 Lecture 3 | [Linear Classifiers]()
 Lecture 4 | [Optimization]()
