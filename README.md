@@ -1,6 +1,6 @@
 ## [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
-Course Youtube Link
+[Course Website](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
 
 Lecture Order| Marked Course Notes
 --- | --- |
@@ -16,7 +16,7 @@ Lecture 9 | [Hardware and Software](https://drive.google.com/file/d/1stt5P2NvSAM
 Lecture 10 | [Training Neural Networks I](https://drive.google.com/file/d/1Ffu5sS-_VkOM7x1XqjIyvzIaAaXqEsDw/view?usp=sharing)
 Lecture 11 | [Training Neural Networks II](https://drive.google.com/file/d/12sqUOCBjbgJQsmAjTJgTXMa7_31N_2SI/view?usp=sharing)
 Lecture 12 | [Recurrent Neural Networks](https://drive.google.com/file/d/1WZ69vBBRVizGZTlUkVsv_8GA9W8UA9Fv/view?usp=sharing)
-Lecture 13 | [Attention](https://drive.google.com/file/d/1EmmhwUcGTjAyI35dq1e75jyEdWZLAMd2/view?usp=sharing)
+Lecture 13 | [Attention (Update-to-Here-Now)](https://drive.google.com/file/d/1EmmhwUcGTjAyI35dq1e75jyEdWZLAMd2/view?usp=sharing)
 Lecture 14 | [Visualizing and Understanding]()
 Lecture 15 | [Object Detection]()
 Lecture 16 | [Detection and Segmentation]()
